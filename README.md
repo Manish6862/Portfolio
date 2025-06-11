@@ -31,6 +31,6 @@ It showcases who I am, what I do, and what I have built. This site is fully resp
 
 ## 👤 Author
 
-*Manish Rajput*)
+(*Manish Rajput*)
 
 
