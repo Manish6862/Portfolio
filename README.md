@@ -24,11 +24,6 @@ It showcases who I am, what I do, and what I have built. This site is fully resp
 
 [Click here to view the live site](https://manishrajput67321.github.io/my-portfolio)
 
-## 📷 Screenshot
-
-![Portfolio Screenshot](img/## 🌐 Live Demo
-
-[Click here to view the live site](https://manishrajput67321.github.io/my-portfolio)
 
 ## 📷 Screenshot
 
@@ -38,6 +33,4 @@ It showcases who I am, what I do, and what I have built. This site is fully resp
 
 *Manish Rajput*)
 
-## 👤 Author
 
-*Manish Rajput*
