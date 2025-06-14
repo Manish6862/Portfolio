@@ -139,18 +139,18 @@ section {
   display: inline-flex;
   justify-content: space-between;
   align-items: center;
-  width: 300px;
+  width: 400px;
   margin: 1rem 0 2rem;
 }
-.info-box h5 {
+.info-box h3 {
   font-weight: 600;
   columns: var(--text-color);
-  font-size: 1rem;
+  font-size: 1.2rem;
 }
 .info-box span {
   font-size: 0.9rem;
   color: #bdbdbd;
-  margin-right: 20px;
+  margin-right: 29px;
 }
 .btn-box {
   display: flex;
@@ -906,5 +906,11 @@ footer a {
   .education-box .standard h4 {
     font-size: 1.2rem;
      line-height: 1.5rem;
+  }
+  .info-box{
+     width: 320px;
+  }
+  .info-box span {
+    margin-right: 23px;
   }
 }
