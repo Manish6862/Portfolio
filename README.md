@@ -22,7 +22,7 @@ It showcases who I am, what I do, and what I have built. This site is fully resp
 
 ## 🌐 Live Demo
 
-[Click here to view the live site](https://manishrajput67321.github.io/my-portfolio)
+[Click here to view the live site](https://manish6862.github.io/portfolio/ )
 
 
 ## 📷 Screenshot
