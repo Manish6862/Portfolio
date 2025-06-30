@@ -808,8 +808,8 @@ footer a {
     display: block;
     transition: all 0.4s ease;
   }
-  #menu-icon bx-x {
-    transition: rotate(-180deg);
+  #menu-icon.bx-x {
+    transform: rotate(-180deg);
   }
   .navlist {
     display: flex;
